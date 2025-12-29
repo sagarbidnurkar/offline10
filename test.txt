@@ -1,0 +1,6 @@
+
+ Appended line using a+ mode
+ this is demo for r+ mode
+ this is demo for r+ mode
+ Appended line using a+ mode
+ Appended line using a+ mode
